@@ -1,0 +1,10 @@
+body {
+  border-radius: 30px;
+  background-image: url("board.PNG");
+}
+
+#sketch-holder {
+  position: absolute;
+  left: 40px;
+  top: 40px;
+}
